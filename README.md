@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trần Tuấn Anh - ITA</h1>
 <h3 align="center">A passionate Android developer + FullStack Developer from Việt Nam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trantuananh-357&label=Profile%20views&color=0e75b6&style=flat" alt="trantuananh-357" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trantuananh-357" alt="trantuananh-357" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
