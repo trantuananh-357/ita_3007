@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Trần Tuấn Anh - ITA</h1>
-<h3 align="left">A passionate Android developer + FullStack Developer from Việt Nam</h3>
+<h3 align="left">A passionate Android developer + FullStack Developer from Viet Nam</h3>
 
 
 
